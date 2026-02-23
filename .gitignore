@@ -1,0 +1,15 @@
+# Power BI cache/temp files
+*.pbit
+*.pbix.cache
+*.pbix.lock
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python cache (if you ever use Python)
+__pycache__/
+*.pyc
+
+# Logs
+*.log
